@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/harshit-11043/React-mini01/static/css/main.71a188ad.css",
-    "main.js": "/harshit-11043/React-mini01/static/js/main.834b1d35.js",
-    "index.html": "/harshit-11043/React-mini01/index.html",
-    "main.71a188ad.css.map": "/harshit-11043/React-mini01/static/css/main.71a188ad.css.map",
-    "main.834b1d35.js.map": "/harshit-11043/React-mini01/static/js/main.834b1d35.js.map"
+    "main.css": "/React-mini01/static/css/main.71a188ad.css",
+    "main.js": "/React-mini01/static/js/main.834b1d35.js",
+    "index.html": "/React-mini01/index.html",
+    "main.71a188ad.css.map": "/React-mini01/static/css/main.71a188ad.css.map",
+    "main.834b1d35.js.map": "/React-mini01/static/js/main.834b1d35.js.map"
   },
   "entrypoints": [
     "static/css/main.71a188ad.css",
